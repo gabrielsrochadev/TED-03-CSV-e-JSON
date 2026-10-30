@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "professor": "Jakson Ferreira",
+        "disciplina": "Sistemas Operacionais",
+        "carga_horaria": "80"
+    },
+    {
+        "id": "2",
+        "professor": "Alex Rogaleski",
+        "disciplina": "Programação Avançada",
+        "carga_horaria": "120"
+    },
+    {
+        "id": "3",
+        "professor": "Marcos David",
+        "disciplina": "Engenharia de Sistemas",
+        "carga_horaria": "100"
+    }
+]
